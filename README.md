@@ -1,1 +1,6 @@
-This is my final project for my Social Statistics course where I analyzed Radiohead's discography and attempted to analyze their data and turn it into meaningful observations. I looked at song length, album, listens, personal enjoyment, and other variables.
+# Radiohead-Final-Project
+## **Instructions**
+To access and utilize my script, please open the "final_project_script.R" file containing all of my script data.
+
+## **Data**
+

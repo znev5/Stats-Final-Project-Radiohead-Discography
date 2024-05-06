@@ -1,0 +1,1 @@
+This is my final project for my Social Statisteces course where I analyzed Radiohead's discography and attmepted to analyze their data and turn it into meaningful observations. I looked at song length, album, listens, personal enjoyment, and toher variables.
